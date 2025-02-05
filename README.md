@@ -33,7 +33,7 @@ La aplicación permite a los usuarios agregar nombres de amigos a una lista y lu
 
 ## Capturas de Pantalla
 
-![Captura de Pantalla 1](assets/amigo-secreto.png)
+![Captura de Pantalla 1](assets/Pruebas.png)
 *Interfaz de la aplicación mostrando la sección para agregar amigos y el botón para sortear.*
 
 ## Tecnologías Utilizadas
